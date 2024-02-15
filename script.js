@@ -1,6 +1,6 @@
 function prjcsBTN(){
-  window.location.href = './Projects/index.html'
+  window.location.href = './Projects/'
 }
 function home(){
-  window.location.href = './index.html'
+  window.location.href = '.'
 }
